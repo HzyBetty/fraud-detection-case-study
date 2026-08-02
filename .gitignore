@@ -1,0 +1,5 @@
+*.docx
+~$*
+.claude/
+.ipynb_checkpoints/
+*.pptx
